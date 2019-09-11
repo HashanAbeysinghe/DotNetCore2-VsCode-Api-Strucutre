@@ -13,6 +13,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ALMaster.Domain\ALMaster.Domain.csproj" />
     <ProjectReference Include="..\ALMaster.Application\ALMaster.Application.csproj" />
+    <ProjectReference Include="..\ALMaster.Persistence\ALMaster.Persistence.csproj" />
   </ItemGroup>
 
 </Project>
